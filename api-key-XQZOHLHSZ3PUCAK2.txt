@@ -1,0 +1,7 @@
+=== Confluent Cloud API key ===
+
+API key:
+XQZOHLHSZ3PUCAK2
+
+API secret:
+eQyRUFwAD3z137j8u0cUj3ht2cQYeA6bjZtQKhUdg/QqcClE1am4JsFxsw4Y9of/
